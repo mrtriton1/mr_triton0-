@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/tritonv.js';
+
+await encryptOwners([
+  "237655159534",
+  "237655159534"
+]);
