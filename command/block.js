@@ -1,5 +1,5 @@
 
-import sender from '../commands/sender.js';
+import sender from '../command/sender.js';
 
 async function block(client, message) {
     
